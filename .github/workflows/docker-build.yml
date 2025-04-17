@@ -3,7 +3,7 @@ name: Build and Push Docker Image
 on:
   push:
     branches:
-      - main  # ou remplace par 'Sy_Moussa_librairie' si c’est ta branche principale
+      - Sy_Moussa_librairie  # ou remplace par 'Sy_Moussa_librairie' si c’est ta branche principale
 
 jobs:
   build-and-push:
